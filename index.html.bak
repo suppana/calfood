@@ -34,7 +34,7 @@
 							
 							<nav id="nav">
 								<a href="index.html" class="current-page-item">Home</a>
-								<a href="twocolumn1.html">AR Excercise</a>
+								<a href="twocolumn1.html">AR Exercise</a>
 								<a href="twocolumn2.html">References</a>
 								<a href="onecolumn.html">Other</a>
 								<a href="threecolumn.html">About us</a>
@@ -61,10 +61,13 @@
 					<div class="4u">
 						
 						<section>
-							<h2>AR Excercise</h2>
+							<h2>AR Exercise</h2>
 							<p>Short Paper: Calory Battle AR: an Extensible Mobile Augmented Reality Exergame Platform</p>
+							<li><a href="ARExercise.pdf" target="_blank">AR Exercise</a></li>
+							<br>
+							<br>
 							<footer class="controls">
-								<a href="http://html5up.net" class="button">More AR Excercise...</a>
+								<a href="twocolumn1.html" class="button">More AR Exercise...</a>
 							</footer>
 						</section>
 					
@@ -84,11 +87,13 @@
 								<div class="row">
 									<div class="6u">
 										<ul class="link-list">
-											<li><a href="#">World Health Organization</a></li>
-											<li><a href="#">OECD</a></li>
-											<li><a href="#">Exergames for physical education courses: Physical, social, and cognitive benefits</a></li>
-											<li><a href="#">Zombies run!</a></li>
-											<li><a href="#">Geoboids: A mobile ar application for exergaming</a></li>
+
+								<li><a href="WHO.pdf" target="_blank">World Health Organization</a></li>
+								<li><a href="OECD.pdf" target="_blank">OECD</a></li>
+								<li><a href="Exergames _for_physical_education_courses.pdf" target="_blank">Exergames for physical education courses: Physical, social, and cognitive benefits</a></li>
+								<li><a href="GeoBoids.pdf" target="_blank">Geoboids: A mobile ar application for exergaming</a></li>
+								<li><a href="Zombies_run.pdf" target="_blank">Zombies run!</a></li>
+									
 										</ul>
 									</div>
 									
