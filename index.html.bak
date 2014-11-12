@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>AR Exercise</title>
+		<title>AR Exergame</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -30,11 +30,11 @@
 					<div class="12u">
 						
 						<header id="header">
-							<h1><a href="#" id="logo">AR Exercise</a></h1>
+							<h1><a href="#" id="logo">AR Exergame</a></h1>
 							
 							<nav id="nav">
 								<a href="index.html" class="current-page-item">Home</a>
-								<a href="twocolumn1.html">AR Exercise</a>
+								<a href="twocolumn1.html">AR Exergame</a>
 								<a href="twocolumn2.html">References</a>
 								<a href="onecolumn.html">Other</a>
 								<a href="threecolumn.html">About us</a>
@@ -58,16 +58,17 @@
 		<div id="main">
 			<div class="container">
 				<div class="row main-row">
-					<div class="4u">
+					<div class="6u">
 						
 						<section>
-							<h2>AR Exercise download</h2>
-							<p>Short Paper: Calory Battle AR: an Extensible Mobile Augmented Reality Exergame Platform</p>
-							<li><a href="ARExercise.pdf" target="_blank">AR Exercise</a></li>
+							<h2>Short Paper: Calory Battle AR: an Extensible Mobile Augmented Reality Exergame Platform</h2>
 							<br>
 							<br>
+							<!--<p>Short Paper: Calory Battle AR: an Extensible Mobile Augmented Reality Exergame Platform</p>-->
+							<li><h2><a href="ARExercise.pdf" target="_blank">Download</a></h2></li>
+							
 							<footer class="controls">
-								<a href="twocolumn1.html" class="button">More AR Exercise...</a>
+								<a href="twocolumn1.html" class="button">More AR Exergame...</a>
 							</footer>
 						</section>
 					
@@ -81,15 +82,17 @@
 					</div>
 					<div class="4u">
 					
-						<section>
+						<!-- <section>
 							<h2>Reference download</h2>
 							<div>
 								<div class="row">
 									<div class="6u">
 										<ul class="link-list">
 
-								<li><a href="WHO.pdf" target="_blank">World Health Organization</a></li>
-								<li><a href="OECD.pdf" target="_blank">OECD</a></li>
+								<li><a href="WHO.pdf" target="_blank">โรคอ้วนและน้ำหนักเกิน&nbsp;ฉบับแปล</a></li>
+								<li><a href="WHO.pdf" target="_blank">Obesity and overweight&nbsp;Ver.Eng</a></li>
+								<li><a href="OECD.pdf" target="_blank">โรคอ้วนและเศรษฐศาสตร์ของการป้องกัน: ความพอดีไม่อ้วน – ข้อเท็จจริงของเกาหลีที่สำคัญ&nbsp;ฉบับแปล</a></li>
+								<li><a href="OECD.pdf" target="_blank">OECD&nbsp;Ver.Eng</a></li>
 								<li><a href="Exergames _for_physical_education_courses.pdf" target="_blank">Exergames for physical education courses: Physical, social, and cognitive benefits</a></li>
 								<li><a href="GeoBoids.pdf" target="_blank">Geoboids: A mobile ar application for exergaming</a></li>
 								<li><a href="Zombies_run.pdf" target="_blank">Zombies run!</a></li>
@@ -99,7 +102,7 @@
 									
 								</div>
 							</div>
-						</section>
+						</section> -->
 
 					</div>
 				</div>
